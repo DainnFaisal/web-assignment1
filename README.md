@@ -1,2 +1,2 @@
 # web-assignment1
-CV using HTML CSS and JavaScript
+CV using HTML and CSS
